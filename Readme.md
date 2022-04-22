@@ -197,3 +197,8 @@ We also can contain the layout of the reccommendatin section.
 ## Comparisom
 
 ![img-ngm-after](https://user-images.githubusercontent.com/10064416/159596750-604fb5e7-9e58-4f5b-97eb-360907f65397.png)
+
+# Resources
+
+- [slides:](https://docs.google.com/presentation/d/1fMxIl1hL8WN2oUbQmnsUTci0LmOJaz3iKy0OjWq7Cvk/edit?usp=sharing)
+
