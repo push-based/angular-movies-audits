@@ -99,6 +99,8 @@ The interesting part here is the searchbox that has a animation on `width` focus
   contain: layout;
 }
 
+There was a problem when i applied it, the stacking-index changed due to `contain:layout` and i had to apply z-index manually to fix the uverlap ov content area and the dropdown inside the toolbar area.
+
 The form it self can get `contain:strict` to shield the focus style of the input.
 
 ```css
